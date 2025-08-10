@@ -1,0 +1,23 @@
+# Expo / React Native
+.expo
+.expo-shared
+*.expo
+android/
+ios/
+# (add these if you’re not committing native folders)
+
+# Node / TypeScript
+node_modules/
+dist/
+coverage/
+*.log
+
+# Env & secrets
+.env
+.env.*.local
+
+# macOS
+.DS_Store
+
+# VSCode
+.vscode/
